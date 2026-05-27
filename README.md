@@ -10,7 +10,7 @@ This is the second iteration of the Micron model, updated from the prior October
 
 ## Model Overview
 
-Micron is in the middle of a documented memory upcycle driven by AI infrastructure demand. The central valuation debate is whether the company is structurally re-rating from a cyclical memory business to a durable AI infrastructure cash generator. The DCF outputs show a conservative structural re-rating with normalized gross margins of 65-50% in years 3, 4, & 5:
+Micron is in the middle of a documented memory upcycle driven by AI infrastructure demand. The central valuation debate is whether the company is structurally re-rating from a cyclical memory business to a durable AI infrastructure cash generator. The base case DCF outputs show a conservative structural re-rating with normalized gross margins of 65-50% in years 3, 4, & 5:
 
 - **Perpetuity growth (3.0% LTGR)**: $1,076 / share
 - **EBITDA exit multiple (13.0x)**: $1,034 / share

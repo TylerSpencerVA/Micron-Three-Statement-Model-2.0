@@ -2,6 +2,8 @@
 
 A fully integrated 3-statement financial model and DCF valuation for Micron Technology (NASDAQ: MU), updated through Q2 FY2026 SEC filings and the May 2026 market environment. The model covers FY2023–FY2025 historical periods and a FY2026–FY2030 five-year forecast, with bottom-up revenue build, integrated cash flow statement, scenario analysis, sensitivity tables, and a discounted cash flow valuation with both perpetuity growth and exit multiple terminal value approaches.
 
+While Micron's cyclicality and rapidly changing environment make it a difficult company to model, that's precisely why I chose it. The constant flow of new information forces me to revisit and stress-test assumptions often, and the company sits at the center of one of the most consequential debates in semiconductors today. Modeling Micron isn't just an exercise, it's a way to develop conviction in a business I find genuinely interesting to follow.
+
 This is the second iteration of the Micron model, updated from the prior October 2025 version to incorporate updated filings, refined modeling methodology, and a DCF valuation. A changelog documenting all material changes from the prior version is included in the repository.
 
 [[Link to downloadable model]](https://github.com/TylerSpencerVA/Micron-FSM-2.0/blob/main/Micron%20Three%20Statement%20Model%20May%20Update%20FINAL.xlsx) ("view raw" to download)
